@@ -40,4 +40,9 @@ git config --global user.email "你的GitHub注册邮箱"
 
 git remote add origin git@github.com:userName/yourProject.git
 
+git add .
+
+git commit -m "tag"
+
 git push -u origin master
+
