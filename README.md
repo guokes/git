@@ -1,5 +1,9 @@
 # git
 
+有个很好的在线学习网站，推荐给大家： https://learngitbranching.js.org/
+
+![img](https://pdai-1257820000.cos.ap-beijing.myqcloud.com/pdai.tech/public/_images/tool-git-learn-1.png)
+
 ## 1.安装
 
 #### 1.1 windows
